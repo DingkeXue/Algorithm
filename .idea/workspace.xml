@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="befda463-7dac-4402-b1b6-c1729d65cdcd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Flat/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flat/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryFind/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryFind/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTree/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTree/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,29 +26,29 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="8" />
-          <entry key="js" value="9" />
+          <entry key="html" value="10" />
+          <entry key="js" value="11" />
           <entry key="md" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="8" />
-          <entry key="JavaScript" value="9" />
+          <entry key="HTML" value="10" />
+          <entry key="JavaScript" value="11" />
           <entry key="Markdown" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="144" />
-          <entry key="js" value="5082" />
+          <entry key="html" value="182" />
+          <entry key="js" value="6701" />
           <entry key="md" value="449" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="144" />
-          <entry key="JavaScript" value="5082" />
+          <entry key="HTML" value="182" />
+          <entry key="JavaScript" value="6701" />
           <entry key="Markdown" value="449" />
         </counts>
       </usages-collector>
@@ -55,19 +57,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flat/index.html">
+        <entry file="file://$PROJECT_DIR$/BinaryTree/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+            <state relative-caret-position="46">
+              <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Flat/main.js">
+        <entry file="file://$PROJECT_DIR$/BinaryTree/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="533">
-              <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+            <state relative-caret-position="349">
+              <caret line="90" column="5" lean-forward="true" selection-start-line="90" selection-start-column="5" selection-end-line="90" selection-end-column="5" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -103,6 +105,10 @@
         <option value="$PROJECT_DIR$/Recursion/DeepClone.js" />
         <option value="$PROJECT_DIR$/Flat/index.html" />
         <option value="$PROJECT_DIR$/Flat/main.js" />
+        <option value="$PROJECT_DIR$/BinaryFind/index.html" />
+        <option value="$PROJECT_DIR$/BinaryFind/main.js" />
+        <option value="$PROJECT_DIR$/BinaryTree/index.html" />
+        <option value="$PROJECT_DIR$/BinaryTree/main.js" />
       </list>
     </option>
   </component>
@@ -112,9 +118,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="657" />
-    <option name="y" value="37" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="833" />
+    <option name="y" value="40" />
     <option name="width" value="1857" />
     <option name="height" value="1080" />
   </component>
@@ -136,11 +142,6 @@
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Flat" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -150,7 +151,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557996579596" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558013335412" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -178,15 +179,15 @@
       <option name="presentableId" value="Default" />
       <updated>1557922501426</updated>
       <workItem from="1557922503020" duration="7306000" />
-      <workItem from="1557969260866" duration="9067000" />
+      <workItem from="1557969260866" duration="14569000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16373000" />
+    <option name="totallyTimeSpent" value="21875000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="657" y="37" width="1857" height="1080" extended-state="0" />
+    <frame x="833" y="40" width="1857" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13522537" />
@@ -381,8 +382,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Flat/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="533">
-          <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+        <state relative-caret-position="119">
+          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinaryFind/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinaryFind/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinaryTree/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinaryTree/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="90" column="5" lean-forward="true" selection-start-line="90" selection-start-column="5" selection-end-line="90" selection-end-column="5" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
